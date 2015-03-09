@@ -1,0 +1,17 @@
+{
+    "name": "Peep",
+    "description": "A \"pip install\" that is cryptographically guaranteed repeatable.",
+    "repository": {
+        "url": "https://github.com/erikrose/peep/",
+        "license": "MIT",
+        "tests": "https://travis-ci.org/erikrose/peep"
+    },
+    "bugs": {
+        "list": "https://github.com/erikrose/peep/issues",
+        "report": "https://github.com/erikrose/peep/issues/new"
+    },
+    "keywords": [
+        "python",
+        "pip"
+    ]
+}
